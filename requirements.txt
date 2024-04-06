@@ -1,2 +1,6 @@
 streamlit
 pymysql
+numpy
+pandas
+scikkit-learn
+pexpect
